@@ -9,6 +9,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
+import pessoa.Pessoa;
 
 public class Ex2v2 implements ActionListener {
 
