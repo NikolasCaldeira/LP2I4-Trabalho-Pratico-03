@@ -10,6 +10,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JRadioButton;
 import javax.swing.JTextField;
+import pessoa.Pessoa;
 
 public class Ex2v3 implements ActionListener {
 
